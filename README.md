@@ -1,5 +1,3 @@
-# TaxiApps
- 
 # React Native Monorepo
 ## 100% code sharing between apps for iOS and Android
 
