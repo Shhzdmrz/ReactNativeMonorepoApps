@@ -28,3 +28,8 @@ _Requirements: [React Native](https://facebook.github.io/react-native/docs/getti
     - Via CLI
       - _You may need to launch your device emulator before the next command_
       - `$ yarn android` or  `$ yarn ios`
+      
+  ## Note:
+  
+  - Autolinking not working with monorepo need to add it manully.
+  - Sometimes yarn do not work properly and adds extra node_modules to the library(fmscoreop).
